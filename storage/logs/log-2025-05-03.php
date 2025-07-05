@@ -1,0 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-05-03 21:57:19 --> Could not find the language line "trigger_sync_hint"
+ERROR - 2025-05-03 22:00:43 --> JSON exception: {"success":false,"message":"The provided email address is already in use, please use a different one.","trace":[{"file":"\/home7\/cbl102712\/public_html\/agenda\/application\/models\/Customers_model.php","line":66,"function":"validate","class":"Customers_model","type":"->"},{"file":"\/home7\/cbl102712\/public_html\/agenda\/application\/controllers\/Calendar.php","line":240,"function":"save","class":"Customers_model","type":"->"},{"file":"\/home7\/cbl102712\/public_html\/agenda\/system\/core\/CodeIgniter.php","line":481,"function":"save_appointment","class":"Calendar","type":"->"},{"file":"\/home7\/cbl102712\/public_html\/agenda\/index.php","line":331,"args":["\/home7\/cbl102712\/public_html\/agenda\/system\/core\/CodeIgniter.php"],"function":"require_once"}]}

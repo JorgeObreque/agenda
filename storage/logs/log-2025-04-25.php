@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-04-25 20:48:23 --> Could not find the language line "trigger_sync_hint"
+ERROR - 2025-04-25 22:18:27 --> JSON exception: {"success":false,"message":"Invalid credentials provided, please try again.","trace":[{"file":"\/home7\/cbl102712\/public_html\/agenda\/system\/core\/CodeIgniter.php","line":481,"function":"validate","class":"Login","type":"->"},{"file":"\/home7\/cbl102712\/public_html\/agenda\/index.php","line":331,"args":["\/home7\/cbl102712\/public_html\/agenda\/system\/core\/CodeIgniter.php"],"function":"require_once"}]}
+ERROR - 2025-04-25 22:58:10 --> JSON exception: {"success":false,"message":"Invalid credentials provided, please try again.","trace":[{"file":"\/home7\/cbl102712\/public_html\/agenda\/system\/core\/CodeIgniter.php","line":481,"function":"validate","class":"Login","type":"->"},{"file":"\/home7\/cbl102712\/public_html\/agenda\/index.php","line":331,"args":["\/home7\/cbl102712\/public_html\/agenda\/system\/core\/CodeIgniter.php"],"function":"require_once"}]}

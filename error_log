@@ -1,0 +1,13 @@
+[21-Jul-2024 16:35:14 America/Santiago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home7/cbl102712/public_html/agenda/vendor/composer/platform_check.php on line 24
+[12-May-2025 18:01:15 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:01:15 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:01:15 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:01:15 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:01:39 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:01:39 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:10:23 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:10:23 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:23:18 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[12-May-2025 18:23:18 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[18-May-2025 18:59:50 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
+[18-May-2025 18:59:50 UTC] PHP Deprecated:  Constant E_STRICT is deprecated in /home/blondorc/public_html/agenda/system/core/Exceptions.php on line 75
