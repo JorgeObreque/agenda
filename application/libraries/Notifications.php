@@ -222,7 +222,7 @@ class Notifications
                 FILTER_VALIDATE_BOOLEAN,
             );
 
-            if ($send_provider === true) {
+            //if ($send_provider === true) {
                 config(['language' => $provider['language']]);
                 $this->CI->lang->load('translations');
 
@@ -236,7 +236,7 @@ class Notifications
                     $cancellation_reason,
                     $provider['timezone'],
                 );
-            }
+            //}
 
             // Notify customer.
             $send_customer =
